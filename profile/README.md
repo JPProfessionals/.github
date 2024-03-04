@@ -125,6 +125,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
-Credit: [Jan Petry](https://github.com/omgitsjan)
+Credit: [Jan](https://github.com/omgitsjan)
 
 Last Edited on: 24.11.2022
