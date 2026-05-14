@@ -1,21 +1,26 @@
 # JPProfessionals 🚀
 
-We build high-performance digital solutions, from mobile apps to enterprise web platforms.
+JPProfessionals builds modern digital products with a focus on reliable web platforms, custom software, and practical product delivery.
 
-### 🌟 Core Projects
-- **Daylify**: Our flagship community platform for local discovery.
-- **Domain-Checker**: A professional tool for real-time domain availability.
-- **Bespoke Solutions**: Tailored web applications for clients like MB Parkett.
+## Current Status
+- The `jpprofessionals-de` website repository is currently offline.
+- [jpprofessionals.de](https://jpprofessionals.de) now redirects to our GitHub presence.
+- This organization is the current source for project updates and active repositories.
 
-### 🛠 Our Stack
-- **Web**: Nuxt, Next.js, Vue, React
+## What We Build
+- Product websites and web applications
+- Client-specific business software
+- Internal tools and automation
+
+## Tech Stack
+- **Frontend**: Nuxt, Next.js, Vue, React
 - **Mobile**: React Native (Expo)
-- **Backend**: Supabase, PostgreSQL, Node.js
-- **Design**: Nuxt UI, Tailwind CSS, Framer Motion
+- **Backend**: Node.js, Supabase, PostgreSQL
+- **UI/Design**: Tailwind CSS, Nuxt UI
 
-### 🤝 Get in Touch
-- **Website**: [jpprofessionals.de](https://jpprofessionals.de)
-- **Contact**: [hello@jpprofessionals.de](mailto:hello@jpprofessionals.de)
+## Contact
+- **Email**: [hello@jpprofessionals.de](mailto:hello@jpprofessionals.de)
+- **GitHub**: [github.com/JPProfessionals](https://github.com/JPProfessionals)
 
 ---
-*Transforming ideas into digital reality.*
+*Building practical digital solutions.*
