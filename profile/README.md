@@ -21,7 +21,7 @@ We build modern digital products with a strong focus on clean UX, reliable engin
 
 ## 🤝 Let’s connect
 - Follow our repositories for updates, releases, and new projects
-- Contact us: [hello@jpprofessionals.de](mailto:hello@jpprofessionals.de)
+- Contact us directly here on GitHub
 - Organization: [github.com/JPProfessionals](https://github.com/JPProfessionals)
 
 Thanks for stopping by 💙
