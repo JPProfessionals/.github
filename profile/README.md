@@ -4,7 +4,7 @@ Welcome to our GitHub home ✨
 We build modern digital products with a strong focus on clean UX, reliable engineering, and practical results.
 
 ## 🚀 Who we are
-- Full-Stack team based in Germany
+- full-stack team based in Germany
 - Product-minded developers who love building useful software
 - Focused on long-term quality, not quick hacks
 
@@ -22,6 +22,5 @@ We build modern digital products with a strong focus on clean UX, reliable engin
 ## 🤝 Let’s connect
 - Follow our repositories for updates, releases, and new projects
 - Contact us directly here on GitHub
-- Organization: [github.com/JPProfessionals](https://github.com/JPProfessionals)
 
 Thanks for stopping by 💙
