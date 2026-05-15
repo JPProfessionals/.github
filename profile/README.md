@@ -4,7 +4,7 @@ Welcome to our GitHub home ✨
 We build modern digital products with a strong focus on clean UX, reliable engineering, and practical results.
 
 ## 🚀 Who we are
-- full-stack team based in Germany
+- Full-stack team based in Germany
 - Product-minded developers who love building useful software
 - Focused on long-term quality, not quick hacks
 
