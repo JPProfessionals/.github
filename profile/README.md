@@ -19,6 +19,9 @@ We build modern digital products with a strong focus on clean UX, reliable engin
 - **Backend**: Node.js, Supabase, PostgreSQL
 - **Tooling**: GitHub, Linux, VS Code
 
+## ⚖️ Legal / Rechtliches
+- **[Imprint / Impressum](https://github.com/JPProfessionals/.github/blob/master/IMPRINT.md)** — Angaben gemäß § 5 DDG
+
 ## 🤝 Let’s connect
 - Follow our repositories for updates, releases, and new projects
 - Contact us directly here on GitHub
